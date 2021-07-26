@@ -1,0 +1,24 @@
+body{
+    color: pink;
+    background-color:grey
+}
+
+p{
+    color: pink
+}
+
+
+#gree{
+    text-align: center;
+}
+.center{
+    color:antiquewhite
+}
+
+p.solid {border-style: solid;}
+
+body{
+    color: pink;
+    background-color: grey;
+    font: italic 12px sans-serif;
+}
